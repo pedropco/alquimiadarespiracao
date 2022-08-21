@@ -1,1 +1,1 @@
-Git for professional curriculum
+Git for professional curriculum. Exactly started at june 2022.
