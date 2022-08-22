@@ -1,3 +1,1 @@
-Git for professional curriculum. Exactly started at june 2022.
-
-Full stack developer in development.
+Alquimia da Respiração is one online Breathwork Course I give since 2022.
